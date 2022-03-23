@@ -1,0 +1,12 @@
+com\it_academy\onliner\rest_api\model\SushiVeslaFacet.class
+com\it_academy\onliner\rest_api\service\SushiVeslaService.class
+com\it_academy\onliner\framework\BasePage.class
+com\it_academy\onliner\framework\WebDriverCreator.class
+com\it_academy\onliner\rest_api\utils\ResponseBodyUtils.class
+com\it_academy\onliner\pageobject\CatalogOnlinerPage.class
+com\it_academy\onliner\rest_api\utils\GetRequestUtils.class
+com\it_academy\onliner\framework\Driver.class
+com\it_academy\onliner\navigation\CatalogOnlinerNavigation.class
+com\it_academy\onliner\framework\ChromeDriverCreator.class
+com\it_academy\onliner\framework\WebDriverDiscovery.class
+com\it_academy\onliner\rest_api\model\SushiVeslaRollsFacet.class

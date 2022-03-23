@@ -1,0 +1,12 @@
+C:\Users\pipindron\IdeaProjects\APIProject\src\main\java\com\it_academy\onliner\framework\BasePage.java
+C:\Users\pipindron\IdeaProjects\APIProject\src\main\java\com\it_academy\onliner\pageobject\CatalogOnlinerPage.java
+C:\Users\pipindron\IdeaProjects\APIProject\src\main\java\com\it_academy\onliner\rest_api\model\SushiVeslaRollsFacet.java
+C:\Users\pipindron\IdeaProjects\APIProject\src\main\java\com\it_academy\onliner\navigation\CatalogOnlinerNavigation.java
+C:\Users\pipindron\IdeaProjects\APIProject\src\main\java\com\it_academy\onliner\rest_api\utils\GetRequestUtils.java
+C:\Users\pipindron\IdeaProjects\APIProject\src\main\java\com\it_academy\onliner\rest_api\utils\ResponseBodyUtils.java
+C:\Users\pipindron\IdeaProjects\APIProject\src\main\java\com\it_academy\onliner\framework\Driver.java
+C:\Users\pipindron\IdeaProjects\APIProject\src\main\java\com\it_academy\onliner\framework\WebDriverDiscovery.java
+C:\Users\pipindron\IdeaProjects\APIProject\src\main\java\com\it_academy\onliner\framework\WebDriverCreator.java
+C:\Users\pipindron\IdeaProjects\APIProject\src\main\java\com\it_academy\onliner\rest_api\model\SushiVeslaFacet.java
+C:\Users\pipindron\IdeaProjects\APIProject\src\main\java\com\it_academy\onliner\rest_api\service\SushiVeslaService.java
+C:\Users\pipindron\IdeaProjects\APIProject\src\main\java\com\it_academy\onliner\framework\ChromeDriverCreator.java
